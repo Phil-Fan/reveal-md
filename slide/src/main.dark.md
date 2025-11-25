@@ -1,5 +1,4 @@
 ---
-title: Slide 模板
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: simple
@@ -24,8 +23,6 @@ revealOptions:
 
 By [@TonyCrane](https://github.com/TonyCrane)
 
-
-
 </div>
 </div>
 
@@ -41,10 +38,9 @@ By [@TonyCrane](https://github.com/TonyCrane)
 </div>
 </div>
 
-
 <!--v-->
 
-## 标题
+## 标题 1
 
 > test
 
@@ -60,13 +56,13 @@ fn main() {
 
 - list 1
 - list 2
-    - list 2.1
+  - list 2.1
 
 1. 有序
 
 <!--v-->
 
-## 标题
+## 标题 2
 
 <div class="three-line">
 
@@ -133,8 +129,8 @@ class MyClass:
 
 第二列
 
-1. list 
-2. list 
+1. list
+2. list
     - list
 
 </div>

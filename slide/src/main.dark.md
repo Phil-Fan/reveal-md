@@ -4,8 +4,8 @@ verticalSeparator: <!--v-->
 theme: simple
 highlightTheme: monokai-sublime
 css: 
-    - custom.css
-    - dark.css
+    - ./static/custom.css
+    - ./static/dark.css
 revealOptions:
     transition: 'slide'
     transitionSpeed: fast
@@ -28,6 +28,8 @@ By [@TonyCrane](https://github.com/TonyCrane)
 
 <!--s-->
 
+<!-- .slide: data-background="./assets/cover-03.png" -->
+
 <div class="middle center">
 <div style="width: 100%">
 
@@ -39,6 +41,7 @@ By [@TonyCrane](https://github.com/TonyCrane)
 </div>
 
 <!--v-->
+<!-- .slide: data-background="./assets/cover-02.png" -->
 
 ## 标题 1
 
@@ -61,6 +64,7 @@ fn main() {
 1. 有序
 
 <!--v-->
+<!-- .slide: data-background="./assets/cover-02.png" -->
 
 ## 标题 2
 
@@ -79,7 +83,7 @@ fn main() {
 |普通表格|...|...|
 
 <!--s-->
-
+<!-- .slide: data-background="./assets/cover-03.png" -->
 <div class="middle center">
 <div style="width: 100%">
 
@@ -89,6 +93,7 @@ fn main() {
 </div>
 
 <!--v-->
+<!-- .slide: data-background="./assets/cover-02.png" -->
 
 ## 多列布局
 
@@ -101,6 +106,7 @@ fn main() {
 - list
 
 </div>
+
 <div class="col">
 
 第二列
@@ -114,6 +120,7 @@ class MyClass:
 ```
 
 </div>
+
 </div>
 
 <div class="mul-cols">
@@ -125,6 +132,7 @@ class MyClass:
 - list
 
 </div>
+
 <div class="col">
 
 第二列

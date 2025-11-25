@@ -231,6 +231,14 @@ html.print-pdf .reveal pre code {
   font-size: 1em;
 }
 
+.reveal li img {
+  vertical-align: middle;
+}
+
+.reveal table img {
+  vertical-align: middle;
+}
+
 .reveal-viewport.reveal-scroll .slide-background {
   width: var(--slide-width) !important;
   height: var(--slide-height) !important;
